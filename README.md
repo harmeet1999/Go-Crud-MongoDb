@@ -1,5 +1,3 @@
-Here is the entire `README.md` in one markdown block for easy copying:
-
 ```markdown
 # Golang CRUD with MongoDB and Gin
 
